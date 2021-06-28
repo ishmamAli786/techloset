@@ -1,0 +1,15 @@
+.main_section{
+    background-color: hsl(216,100%,94%);
+    width:100%;
+    height:1000px;
+    margin-top:300px;
+}
+.clr{
+    color:#022969;
+}
+.clrs{
+    color:#035efc;
+}
+.mainh1{
+    text-align: center;
+}

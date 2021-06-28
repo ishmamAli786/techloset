@@ -1,0 +1,22 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing:border-box;
+}
+.try{
+    clip-path: polygon(100% 0, 100% 36%, 0 100%, 0 0);
+    background-color:#035efc;
+    z-index:0;
+}
+.leftSide{
+    margin-left:100px;
+    margin-top:100px;
+    z-index:1;
+    color:white;
+}
+.rightSide{
+    margin-left:100px;
+    margin-top:100px;
+    margin-bottom:200px;
+    z-index:30px;
+}

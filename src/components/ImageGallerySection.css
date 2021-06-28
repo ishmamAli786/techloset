@@ -1,0 +1,16 @@
+.main{
+    background-image: url('../assets/paprCut.jpg');
+    min-width:100%;
+    min-height:800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* .sub_main{
+    margin-left:1050px;
+    padding-top:100px;
+
+}
+.second_image{
+    margin-left:400px;
+    
+} */
